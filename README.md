@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 Ex-Étudiant en M1 Technologie de l'Internet<br>💻 Passionné par le développement web et les nouvelles technologies<br>🚀 Toujours à la recherche de nouveaux défis et d'apprentissage<br>🎨 Amateur de design et d'innovation numérique
+🌟 Ex-Étudiant en M1 IT<br>💻 Passionné par le développement web et les nouvelles technologies<br>🚀 Toujours à la recherche de nouveaux défis et d'apprentissage<br>🎨 Amateur de design et d'innovation numérique
 
 
 ## 🌐 Socials:
