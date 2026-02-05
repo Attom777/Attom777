@@ -1,6 +1,8 @@
 # 💫 About Me:
-🌟 Ex-Étudiant en M1 IT<br>💻 Passionné par le développement web et les nouvelles technologies<br>🚀 Toujours à la recherche de nouveaux défis et d'apprentissage<br>🎨 Amateur de design et d'innovation numérique
-
+🌟 Alumni TI master student<br>
+💻 Passionate about web development and new technologies<br>
+🚀 Always looking for new challenges and learning opportunities<br>
+🎨 Lover of design and digital innovation
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/neofaroux) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nfaroux) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Attoom) 
