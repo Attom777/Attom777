@@ -4,7 +4,7 @@
 🚀 Always looking for new challenges and learning opportunities<br>
 🎨 Lover of design and digital innovation
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/neofaroux) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nfaroux) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Attoom) 
 
 # 💻 Tech Stack:
